@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+env/
+*.env
+venv
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and Databases
+*.log
+*.sqlite3
+logs/
+conversation_audio/
+audio_responses/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Sensitive Information
+*.key
+secrets.json
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp

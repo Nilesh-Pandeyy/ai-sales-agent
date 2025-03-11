@@ -1,0 +1,11 @@
+flask
+werkzeug
+twilio
+groq
+vocode
+elevenlabs
+deepgram-sdk
+python-dotenv
+pydantic
+requests
+uuid
