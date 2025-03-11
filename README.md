@@ -83,7 +83,7 @@ python main.py
 
 ## 🌐 Dashboard Access
 - Navigate to `http://localhost:8000` or  Running on `http://127.0.0.1:8000`
- * Running on  `http://192.168.29.76:8000`( local (private) IP address)
+ * Running on  `http:// IP address:8000`( local (private) IP address)
 - Monitor calls
 - Initiate outbound calls
 - View call transcripts and analytics
