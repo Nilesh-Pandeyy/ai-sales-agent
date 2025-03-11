@@ -56,7 +56,7 @@ ELEVEN_LABS_API_KEY=your_elevenlabs_api_key
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Nilesh-Pandeyy/ai-voice-agent.git
+git clone https://github.com/Nilesh-Pandeyy/ai-sales-agent.git
 cd ai-voice-agent
 ```
 
